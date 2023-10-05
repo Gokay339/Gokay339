@@ -24,4 +24,3 @@ Ayrıca yeni projelerde işbirliği yapmaktan da her zaman heyecan duyarım!
 🔍 Şu anda staj yapma arayışındayım ve GitHub profilimdeki projelerimde katkıda bulunmak veya yeni projelerde işbirliği yapmak istiyorum. 
 
 #YapayZeka #MakineÖğrenimi #VeriBilimi #GitHub
-![github-contribution-grid-snake](https://github.com/Gokay339/Gokay339/assets/116993938/477e9e18-0d42-46f6-971d-5df03075a9ef)
