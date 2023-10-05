@@ -1,6 +1,6 @@
 🤖 Merhaba , Ben Gökay Adıgüzel ! 👋
 
-Ben, yapay zeka ve makine öğrenimi yolculuğuna meraklı bir gezginim.
+💬 Ben, yapay zeka ve makine öğrenimi yolculuğuna meraklı bir gezginim.
 
 💡 İstinye Üniversitesinde Bilgisayar Programcılığı bölümünde okuyorum
 
