@@ -13,6 +13,7 @@
 📱 LinkedIn: [https://www.linkedin.com/in/g%C3%B6kay-ad%C4%B1g%C3%BCzel-ab1a4b204/]
 
 📱 GitHub: [https://github.com/Gokay339/Gokay339]
+
 🚀 Her gün yeni bir öğrenme deneyimi ile bir adım daha ileriye gitmeye çalışıyorum. Veri bilimi, model geliştirme, derin öğrenme ve yapay zeka uygulamaları benim için bir tutku haline geldi.
 Özellikle Yapay Zeka konusunda daha fazla uzmanlık kazanmaya odaklanıyorum.
 
