@@ -23,6 +23,6 @@ Ayrıca yeni projelerde işbirliği yapmaktan da her zaman heyecan duyarım!
 
 🌟 Geleceğin teknolojilerini şekillendirmeye katkıda bulunmak için buradayım. Makine öğrenimi ve yapay zeka alanındaki gelişmeleri birlikte keşfetmeye hazır mısınız? 🤝
 
-🔍 Şu anda staj yapma arayışındayım ve GitHub profilimdeki projelerimde katkıda bulunmak veya yeni projelerde işbirliği yapmak istiyorum. 
+🔍 GitHub profilimdeki projelerimde katkıda bulunmak veya yeni projelerde işbirliği yapmak istiyorum. 
 
 #YapayZeka #MakineÖğrenimi #VeriBilimi #GitHub
