@@ -1,5 +1,6 @@
 
-![İMAGE](https://github.com/user-attachments/assets/eada58c4-cd69-42ab-8ee4-26bc86b68974)
+![image](https://github.com/user-attachments/assets/5828a7bd-b170-47f9-b04a-307083a1ba90)
+
 
 ![](https://komarev.com/ghpvc/?username=Gokay339&color=blue)
 
