@@ -1,5 +1,5 @@
-![MasterHead](https://github.com/gokay339/gokay339/blob/main/img/Github%20Banner.jpg)
-![](https://komarev.com/ghpvc/?username=gokay339&color=blue)
+
+![İMAGE](https://github.com/user-attachments/assets/eada58c4-cd69-42ab-8ee4-26bc86b68974)
 
 🤖 Merhaba , Ben Gökay Adıgüzel ! 👋
 
