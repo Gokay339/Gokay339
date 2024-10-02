@@ -1,6 +1,8 @@
 
 ![İMAGE](https://github.com/user-attachments/assets/eada58c4-cd69-42ab-8ee4-26bc86b68974)
 
+![](https://komarev.com/ghpvc/?username=Gokay339&color=blue)
+
 🤖 Merhaba , Ben Gökay Adıgüzel ! 👋
 
 💬 Ben, yapay zeka ve makine öğrenimi yolculuğuna meraklı bir gezginim.
@@ -28,4 +30,10 @@ Ayrıca yeni projelerde işbirliği yapmaktan da her zaman heyecan duyarım!
 
 🔍 GitHub profilimdeki projelerimde katkıda bulunmak veya yeni projelerde işbirliği yapmak istiyorum. 
 
-#YapayZeka #MakineÖğrenimi #VeriBilimi #GitHub
+#YapayZeka #MakineÖğrenimi #VeriBilimi #GitHub #DerinÖğrenme #DeepLearning #MachineLearning #ML #DL #AI 
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CagatayAkkas/CagatayAkkas/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CagatayAkkas/CagatayAkkas/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/CagatayAkkas/CagatayAkkas/output/github-contribution-grid-snake.svg">
+</picture>
