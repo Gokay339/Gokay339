@@ -1,3 +1,6 @@
+![MasterHead](https://github.com/gokay339/gokay339/blob/main/img/Github%20Banner.jpg)
+![](https://komarev.com/ghpvc/?username=gokay339&color=blue)
+
 🤖 Merhaba , Ben Gökay Adıgüzel ! 👋
 
 💬 Ben, yapay zeka ve makine öğrenimi yolculuğuna meraklı bir gezginim.
