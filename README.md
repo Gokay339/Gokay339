@@ -17,7 +17,7 @@
 
 📧 E-posta: [gokay339@gmail.com]
 
-📱 LinkedIn: [https://www.linkedin.com/in/g%C3%B6kay-ad%C4%B1g%C3%BCzel-ab1a4b204/]
+📱 LinkedIn: [https://www.linkedin.com/in/gokay339/]
 
 📱 Kaggle: [https://www.kaggle.com/gokay339]
  <br /> <br /> <br />
